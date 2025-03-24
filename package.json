@@ -27,7 +27,7 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "plugin": "^0.0.15",
-    "prism": "^1.0.0",
+    "prism": "^4.1.2",
     "underscore": "^1.13.7"
   }
 }
