@@ -105,4 +105,4 @@ theme: Quiet
 deploy:
   type: git
   repo: git@github.com:xyz2781790037/xyz2781790037.github.io.git
-  branch: main  # 如果你的 GitHub 仓库是 master 分支，改成 master
+  branch: master  # 如果你的 GitHub 仓库是 master 分支，改成 master
