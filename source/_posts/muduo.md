@@ -7,7 +7,7 @@ tags:
 excerpt: 山河远阔，人间星河
 toc: false
 date: 2025-08-11 15:25:00
-cover: 'https://p3-sign.douyinpic.com/tos-cn-i-p14lwwcsbr/0abac96460444357a0ce88e3c1d81249~tplv-p14lwwcsbr-x2-q75-r:248:332:q75.image?lk3s=7b078dd2&x-expires=1754917200&x-signature=Fj1rMLKmVE9tOVtBvWaTkf2EvWw%3D&from=2064092626&se=false&sc=thumb&biz_tag=aweme_comment&l=202508111526164CD66FBB3FD5AA3141C0'
+cover: 'https://pic.netbian.com/uploads/allimg/250708/233123-17519886834bc3.jpg'
 ---
 # muduo网络库
 ## 总体架构
