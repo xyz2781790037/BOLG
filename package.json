@@ -28,6 +28,6 @@
     "hexo-theme-landscape": "^1.0.0",
     "plugin": "^0.0.15",
     "prism": "^1.0.0",
-    "underscore": "^1.13.7"
+    "underscore": "^1.13.8"
   }
 }
